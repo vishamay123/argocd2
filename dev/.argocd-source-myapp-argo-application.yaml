@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - docker.io/vishamay/httpd:2.1
