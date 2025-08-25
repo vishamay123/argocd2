@@ -5,4 +5,4 @@ resources:
   - svc.yml
 images:
 - name: docker.io/vishamay/predict
-  newTag: "2.0"   # <-- ArgoCD Image Updater changes this automatically
+  newTag: "2.1"   # <-- ArgoCD Image Updater changes this automatically
