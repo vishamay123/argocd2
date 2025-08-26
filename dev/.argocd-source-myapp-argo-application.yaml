@@ -1,4 +1,4 @@
 kustomize:
   images:
   - docker.io/vishamay/httpd:2.2
-  - docker.io/vishamay/predict:2.4
+  - docker.io/vishamay/predict:2.5
